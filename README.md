@@ -1,4 +1,4 @@
-# Labex 🚀 
+# Labex 🚀 - [Site](http://alive-arch.surge.sh/)
 
 Projeto desenvolvido por Matheus Ribeiro durante o curso de Desenvolvimento Web Full-Stack da Labenu.
 
