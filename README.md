@@ -1,2 +1,0 @@
-# Labex
-Viagens Espaciais 🚀
