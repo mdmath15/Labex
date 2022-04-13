@@ -32,7 +32,7 @@ Desenvolver um plataforma que simula uma agência de viagens espaciais.
  
 ## 📥 Instalação e execução
 ```
-$ git clone https://github.com/mdmath15/Labex.git && cd Labex
+$ git clone https://github.com/mdmath15/Labex.git && cd labex
 ``` 
 
 ```
